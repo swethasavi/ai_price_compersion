@@ -1,0 +1,501 @@
+﻿district,crop,market,price_today,price_after_7_days
+Madurai,Tomato,Central Market,22,12
+Madurai,Onion,Central Market,83,80
+Madurai,Potato,Central Market,38,33
+Madurai,Brinjal,Central Market,117,130
+Madurai,Carrot,Central Market,63,72
+Madurai,Beans,Central Market,95,105
+Madurai,Ladies Finger,Central Market,43,47
+Madurai,Pumpkin,Central Market,75,84
+Madurai,Radish,Central Market,103,103
+Madurai,Cabbage,Central Market,79,93
+Madurai,Cauliflower,Central Market,62,75
+Madurai,Banana,Central Market,78,83
+Madurai,Mango,Central Market,34,31
+Madurai,Rice,Central Market,45,37
+Madurai,Wheat,Central Market,92,85
+Madurai,Maize,Central Market,20,13
+Madurai,Chilli,Central Market,89,83
+Madurai,Garlic,Central Market,97,112
+Madurai,Ginger,Central Market,107,97
+Madurai,Coconut,Central Market,36,30
+Madurai,Tomato,Vilakkuthoon Market,37,47
+Madurai,Onion,Vilakkuthoon Market,84,94
+Madurai,Potato,Vilakkuthoon Market,107,105
+Madurai,Brinjal,Vilakkuthoon Market,63,75
+Madurai,Carrot,Vilakkuthoon Market,76,84
+Madurai,Beans,Vilakkuthoon Market,88,95
+Madurai,Ladies Finger,Vilakkuthoon Market,31,21
+Madurai,Pumpkin,Vilakkuthoon Market,27,17
+Madurai,Radish,Vilakkuthoon Market,71,71
+Madurai,Cabbage,Vilakkuthoon Market,76,90
+Madurai,Cauliflower,Vilakkuthoon Market,101,100
+Madurai,Banana,Vilakkuthoon Market,89,100
+Madurai,Mango,Vilakkuthoon Market,66,77
+Madurai,Rice,Vilakkuthoon Market,55,69
+Madurai,Wheat,Vilakkuthoon Market,98,113
+Madurai,Maize,Vilakkuthoon Market,78,75
+Madurai,Chilli,Vilakkuthoon Market,82,88
+Madurai,Garlic,Vilakkuthoon Market,108,104
+Madurai,Ginger,Vilakkuthoon Market,36,28
+Madurai,Coconut,Vilakkuthoon Market,66,70
+Madurai,Tomato,Simmakkal Market,45,45
+Madurai,Onion,Simmakkal Market,85,97
+Madurai,Potato,Simmakkal Market,107,120
+Madurai,Brinjal,Simmakkal Market,43,41
+Madurai,Carrot,Simmakkal Market,40,35
+Madurai,Beans,Simmakkal Market,64,76
+Madurai,Ladies Finger,Simmakkal Market,57,56
+Madurai,Pumpkin,Simmakkal Market,70,67
+Madurai,Radish,Simmakkal Market,29,29
+Madurai,Cabbage,Simmakkal Market,30,36
+Madurai,Cauliflower,Simmakkal Market,20,32
+Madurai,Banana,Simmakkal Market,45,56
+Madurai,Mango,Simmakkal Market,35,35
+Madurai,Rice,Simmakkal Market,40,37
+Madurai,Wheat,Simmakkal Market,59,73
+Madurai,Maize,Simmakkal Market,44,52
+Madurai,Chilli,Simmakkal Market,67,61
+Madurai,Garlic,Simmakkal Market,48,47
+Madurai,Ginger,Simmakkal Market,87,96
+Madurai,Coconut,Simmakkal Market,117,129
+Madurai,Tomato,Goripalayam Market,33,31
+Madurai,Onion,Goripalayam Market,119,122
+Madurai,Potato,Goripalayam Market,93,94
+Madurai,Brinjal,Goripalayam Market,77,68
+Madurai,Carrot,Goripalayam Market,72,62
+Madurai,Beans,Goripalayam Market,26,16
+Madurai,Ladies Finger,Goripalayam Market,77,71
+Madurai,Pumpkin,Goripalayam Market,20,23
+Madurai,Radish,Goripalayam Market,33,43
+Madurai,Cabbage,Goripalayam Market,22,15
+Madurai,Cauliflower,Goripalayam Market,116,113
+Madurai,Banana,Goripalayam Market,104,106
+Madurai,Mango,Goripalayam Market,49,42
+Madurai,Rice,Goripalayam Market,24,14
+Madurai,Wheat,Goripalayam Market,30,45
+Madurai,Maize,Goripalayam Market,107,109
+Madurai,Chilli,Goripalayam Market,83,92
+Madurai,Garlic,Goripalayam Market,55,53
+Madurai,Ginger,Goripalayam Market,55,56
+Madurai,Coconut,Goripalayam Market,38,48
+Madurai,Tomato,Anna Nagar Market,62,72
+Madurai,Onion,Anna Nagar Market,97,105
+Madurai,Potato,Anna Nagar Market,35,34
+Madurai,Brinjal,Anna Nagar Market,96,99
+Madurai,Carrot,Anna Nagar Market,117,124
+Madurai,Beans,Anna Nagar Market,46,46
+Madurai,Ladies Finger,Anna Nagar Market,92,83
+Madurai,Pumpkin,Anna Nagar Market,95,109
+Madurai,Radish,Anna Nagar Market,41,39
+Madurai,Cabbage,Anna Nagar Market,83,76
+Madurai,Cauliflower,Anna Nagar Market,75,77
+Madurai,Banana,Anna Nagar Market,58,53
+Madurai,Mango,Anna Nagar Market,22,36
+Madurai,Rice,Anna Nagar Market,47,49
+Madurai,Wheat,Anna Nagar Market,61,64
+Madurai,Maize,Anna Nagar Market,75,82
+Madurai,Chilli,Anna Nagar Market,31,28
+Madurai,Garlic,Anna Nagar Market,52,47
+Madurai,Ginger,Anna Nagar Market,30,44
+Madurai,Coconut,Anna Nagar Market,60,74
+Chennai,Tomato,Koyambedu Market,26,26
+Chennai,Onion,Koyambedu Market,63,66
+Chennai,Potato,Koyambedu Market,30,43
+Chennai,Brinjal,Koyambedu Market,86,82
+Chennai,Carrot,Koyambedu Market,106,116
+Chennai,Beans,Koyambedu Market,97,87
+Chennai,Ladies Finger,Koyambedu Market,31,38
+Chennai,Pumpkin,Koyambedu Market,77,86
+Chennai,Radish,Koyambedu Market,57,59
+Chennai,Cabbage,Koyambedu Market,86,99
+Chennai,Cauliflower,Koyambedu Market,99,99
+Chennai,Banana,Koyambedu Market,28,27
+Chennai,Mango,Koyambedu Market,90,101
+Chennai,Rice,Koyambedu Market,68,66
+Chennai,Wheat,Koyambedu Market,26,27
+Chennai,Maize,Koyambedu Market,74,78
+Chennai,Chilli,Koyambedu Market,68,77
+Chennai,Garlic,Koyambedu Market,22,17
+Chennai,Ginger,Koyambedu Market,112,111
+Chennai,Coconut,Koyambedu Market,60,57
+Chennai,Tomato,Mylapore Market,30,42
+Chennai,Onion,Mylapore Market,87,98
+Chennai,Potato,Mylapore Market,114,119
+Chennai,Brinjal,Mylapore Market,120,135
+Chennai,Carrot,Mylapore Market,36,44
+Chennai,Beans,Mylapore Market,51,46
+Chennai,Ladies Finger,Mylapore Market,62,77
+Chennai,Pumpkin,Mylapore Market,81,80
+Chennai,Radish,Mylapore Market,103,95
+Chennai,Cabbage,Mylapore Market,112,126
+Chennai,Cauliflower,Mylapore Market,37,38
+Chennai,Banana,Mylapore Market,111,106
+Chennai,Mango,Mylapore Market,93,83
+Chennai,Rice,Mylapore Market,48,60
+Chennai,Wheat,Mylapore Market,60,55
+Chennai,Maize,Mylapore Market,22,33
+Chennai,Chilli,Mylapore Market,55,68
+Chennai,Garlic,Mylapore Market,73,76
+Chennai,Ginger,Mylapore Market,84,80
+Chennai,Coconut,Mylapore Market,96,89
+Chennai,Tomato,Tambaram Market,55,56
+Chennai,Onion,Tambaram Market,68,77
+Chennai,Potato,Tambaram Market,56,60
+Chennai,Brinjal,Tambaram Market,69,68
+Chennai,Carrot,Tambaram Market,38,28
+Chennai,Beans,Tambaram Market,49,64
+Chennai,Ladies Finger,Tambaram Market,113,112
+Chennai,Pumpkin,Tambaram Market,23,37
+Chennai,Radish,Tambaram Market,71,78
+Chennai,Cabbage,Tambaram Market,72,75
+Chennai,Cauliflower,Tambaram Market,83,79
+Chennai,Banana,Tambaram Market,46,52
+Chennai,Mango,Tambaram Market,42,36
+Chennai,Rice,Tambaram Market,109,120
+Chennai,Wheat,Tambaram Market,79,84
+Chennai,Maize,Tambaram Market,37,49
+Chennai,Chilli,Tambaram Market,68,58
+Chennai,Garlic,Tambaram Market,61,70
+Chennai,Ginger,Tambaram Market,93,87
+Chennai,Coconut,Tambaram Market,67,81
+Chennai,Tomato,Pazhamudhir Cholai,44,56
+Chennai,Onion,Pazhamudhir Cholai,28,41
+Chennai,Potato,Pazhamudhir Cholai,68,65
+Chennai,Brinjal,Pazhamudhir Cholai,61,60
+Chennai,Carrot,Pazhamudhir Cholai,24,26
+Chennai,Beans,Pazhamudhir Cholai,91,101
+Chennai,Ladies Finger,Pazhamudhir Cholai,84,83
+Chennai,Pumpkin,Pazhamudhir Cholai,70,61
+Chennai,Radish,Pazhamudhir Cholai,22,35
+Chennai,Cabbage,Pazhamudhir Cholai,24,23
+Chennai,Cauliflower,Pazhamudhir Cholai,65,58
+Chennai,Banana,Pazhamudhir Cholai,92,84
+Chennai,Mango,Pazhamudhir Cholai,41,39
+Chennai,Rice,Pazhamudhir Cholai,83,79
+Chennai,Wheat,Pazhamudhir Cholai,91,86
+Chennai,Maize,Pazhamudhir Cholai,46,54
+Chennai,Chilli,Pazhamudhir Cholai,50,46
+Chennai,Garlic,Pazhamudhir Cholai,109,106
+Chennai,Ginger,Pazhamudhir Cholai,47,44
+Chennai,Coconut,Pazhamudhir Cholai,112,111
+Chennai,Tomato,George Town Market,93,102
+Chennai,Onion,George Town Market,90,103
+Chennai,Potato,George Town Market,114,114
+Chennai,Brinjal,George Town Market,78,77
+Chennai,Carrot,George Town Market,45,42
+Chennai,Beans,George Town Market,104,98
+Chennai,Ladies Finger,George Town Market,53,59
+Chennai,Pumpkin,George Town Market,61,59
+Chennai,Radish,George Town Market,90,93
+Chennai,Cabbage,George Town Market,23,25
+Chennai,Cauliflower,George Town Market,96,95
+Chennai,Banana,George Town Market,48,42
+Chennai,Mango,George Town Market,97,95
+Chennai,Rice,George Town Market,68,73
+Chennai,Wheat,George Town Market,46,58
+Chennai,Maize,George Town Market,39,48
+Chennai,Chilli,George Town Market,76,68
+Chennai,Garlic,George Town Market,92,99
+Chennai,Ginger,George Town Market,43,44
+Chennai,Coconut,George Town Market,114,111
+Coimbatore,Tomato,R.S. Puram Farmer's Market,104,111
+Coimbatore,Onion,R.S. Puram Farmer's Market,115,121
+Coimbatore,Potato,R.S. Puram Farmer's Market,24,31
+Coimbatore,Brinjal,R.S. Puram Farmer's Market,22,37
+Coimbatore,Carrot,R.S. Puram Farmer's Market,20,11
+Coimbatore,Beans,R.S. Puram Farmer's Market,115,116
+Coimbatore,Ladies Finger,R.S. Puram Farmer's Market,92,89
+Coimbatore,Pumpkin,R.S. Puram Farmer's Market,64,79
+Coimbatore,Radish,R.S. Puram Farmer's Market,93,91
+Coimbatore,Cabbage,R.S. Puram Farmer's Market,34,29
+Coimbatore,Cauliflower,R.S. Puram Farmer's Market,56,68
+Coimbatore,Banana,R.S. Puram Farmer's Market,95,89
+Coimbatore,Mango,R.S. Puram Farmer's Market,104,102
+Coimbatore,Rice,R.S. Puram Farmer's Market,28,33
+Coimbatore,Wheat,R.S. Puram Farmer's Market,21,36
+Coimbatore,Maize,R.S. Puram Farmer's Market,113,108
+Coimbatore,Chilli,R.S. Puram Farmer's Market,58,57
+Coimbatore,Garlic,R.S. Puram Farmer's Market,20,28
+Coimbatore,Ginger,R.S. Puram Farmer's Market,62,64
+Coimbatore,Coconut,R.S. Puram Farmer's Market,62,70
+Coimbatore,Tomato, MGR Wholesale Vegetable Market,83,85
+Coimbatore,Onion, MGR Wholesale Vegetable Market,55,68
+Coimbatore,Potato, MGR Wholesale Vegetable Market,119,132
+Coimbatore,Brinjal, MGR Wholesale Vegetable Market,45,51
+Coimbatore,Carrot, MGR Wholesale Vegetable Market,109,104
+Coimbatore,Beans, MGR Wholesale Vegetable Market,102,109
+Coimbatore,Ladies Finger, MGR Wholesale Vegetable Market,22,21
+Coimbatore,Pumpkin, MGR Wholesale Vegetable Market,106,115
+Coimbatore,Radish, MGR Wholesale Vegetable Market,54,62
+Coimbatore,Cabbage, MGR Wholesale Vegetable Market,100,105
+Coimbatore,Cauliflower, MGR Wholesale Vegetable Market,117,111
+Coimbatore,Banana, MGR Wholesale Vegetable Market,35,27
+Coimbatore,Mango, MGR Wholesale Vegetable Market,114,111
+Coimbatore,Rice, MGR Wholesale Vegetable Market,24,18
+Coimbatore,Wheat, MGR Wholesale Vegetable Market,93,106
+Coimbatore,Maize, MGR Wholesale Vegetable Market,77,70
+Coimbatore,Chilli, MGR Wholesale Vegetable Market,119,111
+Coimbatore,Garlic, MGR Wholesale Vegetable Market,96,86
+Coimbatore,Ginger, MGR Wholesale Vegetable Market,51,41
+Coimbatore,Coconut, MGR Wholesale Vegetable Market,104,109
+Salem,Tomato,Leigh Bazaar,106,115
+Salem,Onion,Leigh Bazaar,70,74
+Salem,Potato,Leigh Bazaar,115,120
+Salem,Brinjal,Leigh Bazaar,39,46
+Salem,Carrot,Leigh Bazaar,39,30
+Salem,Beans,Leigh Bazaar,115,122
+Salem,Ladies Finger,Leigh Bazaar,47,44
+Salem,Pumpkin,Leigh Bazaar,77,76
+Salem,Radish,Leigh Bazaar,101,116
+Salem,Cabbage,Leigh Bazaar,103,113
+Salem,Cauliflower,Leigh Bazaar,51,49
+Salem,Banana,Leigh Bazaar,117,125
+Salem,Mango,Leigh Bazaar,21,16
+Salem,Rice,Leigh Bazaar,22,31
+Salem,Wheat,Leigh Bazaar,26,35
+Salem,Maize,Leigh Bazaar,73,71
+Salem,Chilli,Leigh Bazaar,36,26
+Salem,Garlic,Leigh Bazaar,32,35
+Salem,Ginger,Leigh Bazaar,41,38
+Salem,Coconut,Leigh Bazaar,69,67
+Salem,Tomato,Ammapet Uzhavar Santhai,30,25
+Salem,Onion,Ammapet Uzhavar Santhai,55,69
+Salem,Potato,Ammapet Uzhavar Santhai,108,107
+Salem,Brinjal,Ammapet Uzhavar Santhai,118,117
+Salem,Carrot,Ammapet Uzhavar Santhai,64,62
+Salem,Beans,Ammapet Uzhavar Santhai,27,32
+Salem,Ladies Finger,Ammapet Uzhavar Santhai,28,36
+Salem,Pumpkin,Ammapet Uzhavar Santhai,92,99
+Salem,Radish,Ammapet Uzhavar Santhai,41,45
+Salem,Cabbage,Ammapet Uzhavar Santhai,43,54
+Salem,Cauliflower,Ammapet Uzhavar Santhai,24,35
+Salem,Banana,Ammapet Uzhavar Santhai,43,39
+Salem,Mango,Ammapet Uzhavar Santhai,102,104
+Salem,Rice,Ammapet Uzhavar Santhai,43,35
+Salem,Wheat,Ammapet Uzhavar Santhai,114,123
+Salem,Maize,Ammapet Uzhavar Santhai,51,54
+Salem,Chilli,Ammapet Uzhavar Santhai,27,23
+Salem,Garlic,Ammapet Uzhavar Santhai,108,106
+Salem,Ginger,Ammapet Uzhavar Santhai,112,120
+Salem,Coconut,Ammapet Uzhavar Santhai,101,109
+Erode ,Tomato,Nethaji Vegetable Market,67,76
+Erode ,Onion,Nethaji Vegetable Market,115,105
+Erode ,Potato,Nethaji Vegetable Market,46,49
+Erode ,Brinjal,Nethaji Vegetable Market,105,102
+Erode ,Carrot,Nethaji Vegetable Market,89,81
+Erode ,Beans,Nethaji Vegetable Market,45,42
+Erode ,Ladies Finger,Nethaji Vegetable Market,69,68
+Erode ,Pumpkin,Nethaji Vegetable Market,92,99
+Erode ,Radish,Nethaji Vegetable Market,70,66
+Erode ,Cabbage,Nethaji Vegetable Market,83,86
+Erode ,Cauliflower,Nethaji Vegetable Market,108,108
+Erode ,Banana,Nethaji Vegetable Market,103,102
+Erode ,Mango,Nethaji Vegetable Market,95,100
+Erode ,Rice,Nethaji Vegetable Market,35,45
+Erode ,Wheat,Nethaji Vegetable Market,78,83
+Erode ,Maize,Nethaji Vegetable Market,77,74
+Erode ,Chilli,Nethaji Vegetable Market,95,90
+Erode ,Garlic,Nethaji Vegetable Market,65,64
+Erode ,Ginger,Nethaji Vegetable Market,75,75
+Erode ,Coconut,Nethaji Vegetable Market,63,68
+Erode ,Tomato,S.M.P Vegetables Market,83,87
+Erode ,Onion,S.M.P Vegetables Market,82,95
+Erode ,Potato,S.M.P Vegetables Market,85,93
+Erode ,Brinjal,S.M.P Vegetables Market,24,23
+Erode ,Carrot,S.M.P Vegetables Market,82,77
+Erode ,Beans,S.M.P Vegetables Market,62,69
+Erode ,Ladies Finger,S.M.P Vegetables Market,116,120
+Erode ,Pumpkin,S.M.P Vegetables Market,53,57
+Erode ,Radish,S.M.P Vegetables Market,46,55
+Erode ,Cabbage,S.M.P Vegetables Market,63,77
+Erode ,Cauliflower,S.M.P Vegetables Market,83,95
+Erode ,Banana,S.M.P Vegetables Market,105,113
+Erode ,Mango,S.M.P Vegetables Market,59,55
+Erode ,Rice,S.M.P Vegetables Market,28,31
+Erode ,Wheat,S.M.P Vegetables Market,64,66
+Erode ,Maize,S.M.P Vegetables Market,58,68
+Erode ,Chilli,S.M.P Vegetables Market,35,28
+Erode ,Garlic,S.M.P Vegetables Market,72,67
+Erode ,Ginger,S.M.P Vegetables Market,76,70
+Erode ,Coconut,S.M.P Vegetables Market,57,49
+Erode ,Tomato,V.O.C. Vegetable Market,30,30
+Erode ,Onion,V.O.C. Vegetable Market,58,65
+Erode ,Potato,V.O.C. Vegetable Market,49,41
+Erode ,Brinjal,V.O.C. Vegetable Market,72,72
+Erode ,Carrot,V.O.C. Vegetable Market,29,20
+Erode ,Beans,V.O.C. Vegetable Market,52,61
+Erode ,Ladies Finger,V.O.C. Vegetable Market,98,96
+Erode ,Pumpkin,V.O.C. Vegetable Market,26,25
+Erode ,Radish,V.O.C. Vegetable Market,60,64
+Erode ,Cabbage,V.O.C. Vegetable Market,30,20
+Erode ,Cauliflower,V.O.C. Vegetable Market,56,67
+Erode ,Banana,V.O.C. Vegetable Market,82,74
+Erode ,Mango,V.O.C. Vegetable Market,104,112
+Erode ,Rice,V.O.C. Vegetable Market,88,102
+Erode ,Wheat,V.O.C. Vegetable Market,46,37
+Erode ,Maize,V.O.C. Vegetable Market,70,85
+Erode ,Chilli,V.O.C. Vegetable Market,115,120
+Erode ,Garlic,V.O.C. Vegetable Market,20,21
+Erode ,Ginger,V.O.C. Vegetable Market,33,32
+Erode ,Coconut,V.O.C. Vegetable Market,107,101
+Erode ,Tomato,K N Palayam Market,54,60
+Erode ,Onion,K N Palayam Market,117,115
+Erode ,Potato,K N Palayam Market,40,35
+Erode ,Brinjal,K N Palayam Market,43,36
+Erode ,Carrot,K N Palayam Market,113,125
+Erode ,Beans,K N Palayam Market,98,110
+Erode ,Ladies Finger,K N Palayam Market,110,101
+Erode ,Pumpkin,K N Palayam Market,99,109
+Erode ,Radish,K N Palayam Market,39,52
+Erode ,Cabbage,K N Palayam Market,56,70
+Erode ,Cauliflower,K N Palayam Market,22,21
+Erode ,Banana,K N Palayam Market,110,125
+Erode ,Mango,K N Palayam Market,28,33
+Erode ,Rice,K N Palayam Market,45,60
+Erode ,Wheat,K N Palayam Market,33,25
+Erode ,Maize,K N Palayam Market,83,92
+Erode ,Chilli,K N Palayam Market,100,114
+Erode ,Garlic,K N Palayam Market,119,134
+Erode ,Ginger,K N Palayam Market,101,103
+Erode ,Coconut,K N Palayam Market,116,107
+Trichy,Tomato,Panjapur Integrated Market,58,50
+Trichy,Onion,Panjapur Integrated Market,35,41
+Trichy,Potato,Panjapur Integrated Market,101,111
+Trichy,Brinjal,Panjapur Integrated Market,86,92
+Trichy,Carrot,Panjapur Integrated Market,70,77
+Trichy,Beans,Panjapur Integrated Market,38,48
+Trichy,Ladies Finger,Panjapur Integrated Market,108,119
+Trichy,Pumpkin,Panjapur Integrated Market,29,39
+Trichy,Radish,Panjapur Integrated Market,26,30
+Trichy,Cabbage,Panjapur Integrated Market,28,34
+Trichy,Cauliflower,Panjapur Integrated Market,65,78
+Trichy,Banana,Panjapur Integrated Market,72,72
+Trichy,Mango,Panjapur Integrated Market,31,31
+Trichy,Rice,Panjapur Integrated Market,91,99
+Trichy,Wheat,Panjapur Integrated Market,28,29
+Trichy,Maize,Panjapur Integrated Market,55,60
+Trichy,Chilli,Panjapur Integrated Market,95,95
+Trichy,Garlic,Panjapur Integrated Market,55,60
+Trichy,Ginger,Panjapur Integrated Market,45,48
+Trichy,Coconut,Panjapur Integrated Market,79,82
+Trichy,Tomato,Panjapur Integrated Market,90,102
+Trichy,Onion,SSN Market,67,65
+Trichy,Potato,SSN Market,114,119
+Trichy,Brinjal,SSN Market,77,68
+Trichy,Carrot,SSN Market,25,39
+Trichy,Beans,SSN Market,20,23
+Trichy,Ladies Finger,SSN Market,113,105
+Trichy,Pumpkin,SSN Market,64,64
+Trichy,Radish,SSN Market,107,107
+Trichy,Cabbage,SSN Market,80,91
+Trichy,Cauliflower,SSN Market,40,44
+Trichy,Banana,SSN Market,42,54
+Trichy,Mango,SSN Market,102,115
+Trichy,Rice,SSN Market,47,39
+Trichy,Wheat,SSN Market,57,57
+Trichy,Maize,SSN Market,115,119
+Trichy,Chilli,SSN Market,119,123
+Trichy,Garlic,SSN Market,111,113
+Trichy,Ginger,SSN Market,44,48
+Trichy,Coconut,SSN Market,43,52
+Trichy,Tomato,Gandhi Market,102,92
+Trichy,Onion,Gandhi Market,69,77
+Trichy,Potato,Gandhi Market,32,37
+Trichy,Brinjal,Gandhi Market,104,96
+Trichy,Carrot,Gandhi Market,109,104
+Trichy,Beans,Gandhi Market,41,48
+Trichy,Ladies Finger,Gandhi Market,104,117
+Trichy,Pumpkin,Gandhi Market,28,31
+Trichy,Radish,Gandhi Market,80,87
+Trichy,Cabbage,Gandhi Market,112,120
+Trichy,Cauliflower,Gandhi Market,88,83
+Trichy,Banana,Gandhi Market,32,39
+Trichy,Mango,Gandhi Market,109,121
+Trichy,Rice,Gandhi Market,97,110
+Trichy,Wheat,Gandhi Market,72,84
+Trichy,Maize,Gandhi Market,118,128
+Trichy,Chilli,Gandhi Market,115,120
+Trichy,Garlic,Gandhi Market,71,75
+Trichy,Ginger,Gandhi Market,35,41
+Trichy,Coconut,Gandhi Market,38,49
+Thanjavur,Tomato,Uzhavar Santhai,90,81
+Thanjavur,Onion,Uzhavar Santhai,96,108
+Thanjavur,Potato,Uzhavar Santhai,58,50
+Thanjavur,Brinjal,Uzhavar Santhai,108,110
+Thanjavur,Carrot,Uzhavar Santhai,30,25
+Thanjavur,Beans,Uzhavar Santhai,27,26
+Thanjavur,Ladies Finger,Uzhavar Santhai,64,70
+Thanjavur,Pumpkin,Uzhavar Santhai,112,112
+Thanjavur,Radish,Uzhavar Santhai,41,34
+Thanjavur,Cabbage,Uzhavar Santhai,28,23
+Thanjavur,Cauliflower,Uzhavar Santhai,40,39
+Thanjavur,Banana,Uzhavar Santhai,104,101
+Thanjavur,Mango,Uzhavar Santhai,100,110
+Thanjavur,Rice,Uzhavar Santhai,34,26
+Thanjavur,Wheat,Uzhavar Santhai,68,70
+Thanjavur,Maize,Uzhavar Santhai,116,119
+Thanjavur,Chilli,Uzhavar Santhai,117,121
+Thanjavur,Garlic,Uzhavar Santhai,98,94
+Thanjavur,Ginger,Uzhavar Santhai,50,43
+Thanjavur,Coconut,Uzhavar Santhai,47,61
+Thanjavur,Tomato,Uzhavar Santhai,31,22
+Thanjavur,Onion,Rajagiri Market,113,114
+Thanjavur,Potato,Rajagiri Market,78,81
+Thanjavur,Brinjal,Rajagiri Market,69,69
+Thanjavur,Carrot,Rajagiri Market,114,112
+Thanjavur,Beans,Rajagiri Market,103,110
+Thanjavur,Ladies Finger,Rajagiri Market,70,80
+Thanjavur,Pumpkin,Rajagiri Market,114,119
+Thanjavur,Radish,Rajagiri Market,36,39
+Thanjavur,Cabbage,Rajagiri Market,93,100
+Thanjavur,Cauliflower,Rajagiri Market,95,100
+Thanjavur,Banana,Rajagiri Market,37,34
+Thanjavur,Mango,Rajagiri Market,57,68
+Thanjavur,Rice,Rajagiri Market,73,75
+Thanjavur,Wheat,Rajagiri Market,96,110
+Thanjavur,Maize,Rajagiri Market,39,31
+Thanjavur,Chilli,Rajagiri Market,68,60
+Thanjavur,Garlic,Rajagiri Market,59,60
+Thanjavur,Ginger,Rajagiri Market,118,112
+Thanjavur,Coconut,Rajagiri Market,109,121
+Dindigul,Tomato, Oddanchatram Market,99,108
+Dindigul,Onion, Oddanchatram Market,29,20
+Dindigul,Potato, Oddanchatram Market,26,39
+Dindigul,Brinjal, Oddanchatram Market,77,83
+Dindigul,Carrot, Oddanchatram Market,25,40
+Dindigul,Beans, Oddanchatram Market,47,37
+Dindigul,Ladies Finger, Oddanchatram Market,109,111
+Dindigul,Pumpkin, Oddanchatram Market,41,36
+Dindigul,Radish, Oddanchatram Market,35,32
+Dindigul,Cabbage, Oddanchatram Market,87,94
+Dindigul,Cauliflower, Oddanchatram Market,119,134
+Dindigul,Banana, Oddanchatram Market,24,26
+Dindigul,Mango, Oddanchatram Market,20,32
+Dindigul,Rice, Oddanchatram Market,68,78
+Dindigul,Wheat, Oddanchatram Market,100,109
+Dindigul,Maize, Oddanchatram Market,85,97
+Dindigul,Chilli, Oddanchatram Market,41,37
+Dindigul,Garlic, Oddanchatram Market,74,65
+Dindigul,Ginger, Oddanchatram Market,21,27
+Dindigul,Coconut, Oddanchatram Market,100,111
+Dindigul,Tomato,Central Market,95,91
+Dindigul,Onion,Central Market,69,74
+Dindigul,Potato,Central Market,106,98
+Dindigul,Brinjal,Central Market,48,63
+Dindigul,Carrot,Central Market,83,90
+Dindigul,Beans,Central Market,74,83
+Dindigul,Ladies Finger,Central Market,104,95
+Dindigul,Pumpkin,Central Market,65,68
+Dindigul,Radish,Central Market,25,34
+Dindigul,Cabbage,Central Market,33,42
+Dindigul,Cauliflower,Central Market,75,74
+Dindigul,Banana,Central Market,78,87
+Dindigul,Mango,Central Market,86,95
+Dindigul,Rice,Central Market,51,63
+Dindigul,Wheat,Central Market,85,88
+Dindigul,Maize,Central Market,115,116
+Dindigul,Chilli,Central Market,89,94
+Dindigul,Garlic,Central Market,92,83
+Dindigul,Ginger,Central Market,102,109
+Dindigul,Coconut,Central Market,49,55

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Comparison Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>Analysis Results 📈</h1>
+        <p>Comparative Market Analysis for your Crop</p>
+    </header>
+
+    <div class="card">
+        <h2>Market Comparison</h2>
+        
+        <div class="result-grid">
+            <!-- Market 1 -->
+            <div class="market-card">
+                <h3>📍 {{ market1 }}</h3>
+                <p><strong>Current Price:</strong> ₹{{ m1_price.today }}/kg</p>
+                <div class="prediction-badge">
+                    <strong>AI Forecast (7 Days):</strong><br>
+                    ₹{{ ai_m1 }}/kg
+                </div>
+                <hr style="border: 0; border-top: 1px solid #c8e6c9; margin: 10px 0;">
+                <p>Income Today: <strong>₹{{ m1_today }}</strong></p>
+                <p>Income in 7 Days: <strong>₹{{ m1_future }}</strong></p>
+            </div>
+
+            <!-- Market 2 -->
+            <div class="market-card">
+                <h3>📍 {{ market2 }}</h3>
+                <p><strong>Current Price:</strong> ₹{{ m2_price.today }}/kg</p>
+                <div class="prediction-badge">
+                    <strong>AI Forecast (7 Days):</strong><br>
+                    ₹{{ ai_m2 }}/kg
+                </div>
+                <hr style="border: 0; border-top: 1px solid #c8e6c9; margin: 10px 0;">
+                <p>Income Today: <strong>₹{{ m2_today }}</strong></p>
+                <p>Income in 7 Days: <strong>₹{{ m2_future }}</strong></p>
+            </div>
+        </div>
+
+        <div class="best-decision">
+            <h3>✅ Recommended Action</h3>
+            <p style="font-size: 1.2em; margin-bottom: 15px;">{{ best_option }}</p>
+            <p>Estimated Net Profit:</p>
+            <div class="best-value">₹{{ best_value }}</div>
+        </div>
+
+        <p class="note">
+            * Calculations include {{ quantity }}kg initial weight, 1.2% daily storage loss (for future sale), and specified transport costs.
+        </p>
+
+        <div style="text-align: center;">
+            <a href="/" class="back-link">← Perform Another Analysis</a>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

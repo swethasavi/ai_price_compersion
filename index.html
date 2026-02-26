@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Farmer Market Decision System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>AgriSmart 🌾</h1>
+        <p>Intelligent Market Decision Support for Farmers</p>
+    </header>
+
+    <div class="card">
+        <h2>Market Comparison Tool</h2>
+
+        <form action="/compare" method="post" id="compareForm">
+
+            <div id="errorMessage" style="color: #d32f2f; background: #ffebee; padding: 10px; border-radius: 5px; margin-bottom: 20px; display: none; text-align: center; font-weight: bold;">
+                ⚠️ Please select two different markets for comparison.
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label>District</label>
+                    <select name="district" id="district" required>
+                        <option value="">Select District</option>
+                        {% for d in data %}
+                        <option value="{{ d }}">{{ d }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Crop</label>
+                    <select name="crop" id="crop" required>
+                        <option value="">Select Crop</option>
+                    </select>
+                </div>
+            </div>
+
+            <label>Quantity (kg)</label>
+            <input type="number" name="quantity" min="1" placeholder="Enter total weight in kg" required>
+
+            <hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label>Market 1</label>
+                    <select name="market1" id="market1" required>
+                        <option value="">Select First Market</option>
+                    </select>
+                    <input type="number" name="transport1" min="0" placeholder="Transport Cost to Market 1 (₹)" required>
+                </div>
+
+                <div class="form-group">
+                    <label>Market 2</label>
+                    <select name="market2" id="market2" required>
+                        <option value="">Select Second Market</option>
+                    </select>
+                    <input type="number" name="transport2" min="0" placeholder="Transport Cost to Market 2 (₹)" required>
+                </div>
+            </div>
+
+            <button type="submit">Analyze Best Market</button>
+        </form>
+    </div>
+    
+    <p class="note" style="text-align: center;">Helping farmers maximize profits through AI-driven price forecasting.</p>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+    // Flask data converted to JS object
+    const marketData = {{ data | tojson }};
+
+    const districtSelect = document.getElementById("district");
+    const cropSelect = document.getElementById("crop");
+    const market1Select = document.getElementById("market1");
+    const market2Select = document.getElementById("market2");
+
+    // When district changes → load crops
+    districtSelect.addEventListener("change", function () {
+        cropSelect.innerHTML = '<option value="">Select Crop</option>';
+        market1Select.innerHTML = '<option value="">Select Market 1</option>';
+        market2Select.innerHTML = '<option value="">Select Market 2</option>';
+
+        if (this.value === "") return;
+
+        for (let crop in marketData[this.value]) {
+            const option = document.createElement("option");
+            option.value = crop;
+            option.textContent = crop;
+            cropSelect.appendChild(option);
+        }
+    });
+
+    // When crop changes → load markets
+    cropSelect.addEventListener("change", function () {
+        market1Select.innerHTML = '<option value="">Select Market 1</option>';
+        market2Select.innerHTML = '<option value="">Select Market 2</option>';
+
+        const district = districtSelect.value;
+        if (district === "" || this.value === "") return;
+
+        const markets = marketData[district][this.value];
+
+        for (let market in markets) {
+            const opt1 = document.createElement("option");
+            const opt2 = document.createElement("option");
+
+            opt1.value = market;
+            opt1.textContent = market;
+
+            opt2.value = market;
+            opt2.textContent = market;
+
+            market1Select.appendChild(opt1);
+            market2Select.appendChild(opt2);
+        }
+    });
+
+    const form = document.getElementById("compareForm");
+    const errorDiv = document.getElementById("errorMessage");
+
+    function validateMarkets() {
+        if (market1Select.value && market2Select.value && market1Select.value === market2Select.value) {
+            errorDiv.style.display = "block";
+            return false;
+        } else {
+            errorDiv.style.display = "none";
+            return true;
+        }
+    }
+
+    market1Select.addEventListener("change", validateMarkets);
+    market2Select.addEventListener("change", validateMarkets);
+
+    form.addEventListener("submit", function (e) {
+        if (!validateMarkets()) {
+            e.preventDefault();
+            alert("Please select different markets to compare.");
+        }
+    });
+
+});
+</script>
+
+</body>
+</html>
